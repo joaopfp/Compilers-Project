@@ -1,0 +1,31 @@
+///
+    ETAPA 1. Compiladores - 2023/2. Prof. Marcelo Johann
+    Aluno: João Pedro Ferreira Pereira
+\\\
+
+
+input 
+char 
+float 
+code 
+if 
+else 
+
+
+()=,;
+
+
+!= == <= >=
+
+IDENTIFIER99__
+
+'a' 
+"STRING" 
+123
+
+// ignore \n 
+
+123
+
+
+

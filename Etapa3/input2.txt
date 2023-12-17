@@ -1,0 +1,6 @@
+int incn (int x, int n )
+
+code incn
+{
+  return x + n;
+}
